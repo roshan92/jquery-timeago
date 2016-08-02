@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'time_ago/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "time_ago"
+  spec.name          = "jquery-timeago"
   spec.version       = TimeAgo::VERSION
   spec.authors       = ["Roshan"]
   spec.email         = ["icemission@gmail.com"]
