@@ -1,6 +1,8 @@
 # TimeAgo
 A gem that integrates timeago.js in to a Rails application and provides a simple way to render relative timestamps in a view.
 
+[![Gem Version](https://badge.fury.io/rb/jquery-timeago.svg)](https://badge.fury.io/rb/jquery-timeago)
+
 ## Installation
 
 Add this line to your application's Gemfile:
